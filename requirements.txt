@@ -1,1 +1,6 @@
-
+discord.py
+python-dotenv
+requests
+pandas
+numpy
+pytz
